@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=UWovblxkARQ
+WillyPosada@Willy-Posada MINGW64 ~
+$ git config --global user.name "William1701520853"
+
+WillyPosada@Willy-Posada MINGW64 ~
+$ git config --global user.email "william.1701520853caldas.edu.co"
+
+
+WillyPosada@Willy-Posada MINGW64 ~
+$ cd desktop
+
+WillyPosada@Willy-Posada MINGW64 ~/desktop
+$ cd PetServices
+
+WillyPosada@Willy-Posada MINGW64 ~/desktop/PetServices
+$ git init
+
