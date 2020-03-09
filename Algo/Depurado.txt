@@ -1,0 +1,23 @@
+
+git config --global user.name "William1701520853"
+
+git config --global user.email "william.1701520853caldas.edu.co"
+
+git config --list 
+
+cd desktop
+
+cd carpetaProyecto
+
+git init  --SOLO SI NO SE HA INICIADO EL GIT
+
+git add nombreArchivo
+
+git status --VERIFICA EL ESTADO DEL REPOSITORIO
+
+git commit -m "COMENTARIO"
+
+git remote add NombreDeLaSubcarpetaConLosArchivos https://github.com/William1701520853/PetServices.git
+
+git push -u NombreDeLaSubcarpetaConLosArchivos master
+
