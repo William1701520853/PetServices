@@ -5,33 +5,27 @@ https://www.youtube.com/watch?v=UWovblxkARQ
 
 
 
-WillyPosada@Willy-Posada MINGW64 ~
+
 $ git config --global user.name "William1701520853"
 
-WillyPosada@Willy-Posada MINGW64 ~
 $ git config --global user.email "william.1701520853caldas.edu.co"
 
-
-WillyPosada@Willy-Posada MINGW64 ~
 $ cd desktop
-
-WillyPosada@Willy-Posada MINGW64 ~/desktop
 $ cd PetServices
 
-WillyPosada@Willy-Posada MINGW64 ~/desktop/PetServices
+
 $ git init
 
 $ git init
 Reinitialized existing Git repository in C:/Users/WillyPosada/Desktop/PetServices/.git/
 $ git remote add Prueba https://github.com/William1701520853/PetServices.git
 
-WillyPosada@Willy-Posada MINGW64 ~/desktop/PetServices (master)
+
 $ git push -u Prueba master
 
-WillyPosada@Willy-Posada MINGW64 ~/desktop/PetServices (master)
+
 $ git add SW2.txt
 
-WillyPosada@Willy-Posada MINGW64 ~/desktop/PetServices (master)
 $ git status
 On branch master
 
