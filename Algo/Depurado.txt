@@ -20,4 +20,5 @@ git commit -m "COMENTARIO"
 git remote add NombreDeLaSubcarpetaConLosArchivos https://github.com/William1701520853/PetServices.git
 
 git push -u NombreDeLaSubcarpetaConLosArchivos master
+.
 
